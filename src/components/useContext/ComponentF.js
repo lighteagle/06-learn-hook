@@ -1,6 +1,6 @@
 import React, { useReducer } from "react";
-import { UserContext } from "./../../App";
-import { ChannelContext } from "./../../App";
+import { UserContext } from "../../App";
+import { ChannelContext } from "../../App";
 function ComponentF() {
   return (
     <div>
